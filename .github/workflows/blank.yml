@@ -10,7 +10,7 @@ jobs:
       - name: send photo message
         uses: appleboy/telegram-action@master
         with:
-          to: ${{ secrets.TELEGRAM_TO }}
-          token: ${{ secrets.TELEGRAM_TOKEN }}
+          to: 1382384821
+          token: 6884130466:AAEuzWVdzhIgjimUO2r9y0QZeZEhzpqAQtY
           message: send photo message
           photo: ./a9d9562f-d6fa-4abd-99e7-317b6f614c82.jpg
