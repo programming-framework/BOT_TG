@@ -14,4 +14,3 @@ jobs:
           token: ${{ secrets.TELEGRAM_TOKEN }}
           message: send photo message
           photo: ./a9d9562f-d6fa-4abd-99e7-317b6f614c82.jpg
-          document: ./a9d9562f-d6fa-4abd-99e7-317b6f614c82.jpg
